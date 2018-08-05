@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name FailRail)(type KiCad)(uri E:/Projects/Schematics/Libraries/FailRail.pretty)(options "")(descr ""))
+  (lib (name LinxBatHold)(type KiCad)(uri E:/Projects/Schematics/Libraries/linx-bat-hld-001.pretty)(options "")(descr ""))
+)
