@@ -3,9 +3,9 @@
   (general
     (links 65)
     (no_connects 0)
-    (area 118.034999 44.882999 176.605001 163.143001)
+    (area 118.034999 44.525 176.605001 163.143001)
     (thickness 1.6)
-    (drawings 9)
+    (drawings 8)
     (tracks 342)
     (zones 0)
     (modules 36)
@@ -3911,9 +3911,6 @@
       (net 1 VCC))
   )
 
-  (gr_text "53 58 51 6e 63 79 42 68 49 46 56\n4f 53 56 67 67 63 33 6c 7a 64 47\n56 74 4c 43 42 4a 49 47 74 75 62\n33 63 67 64 47 68 70 63 79 45 3d" (at 146.177 156.845) (layer B.SilkS)
-    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
-  )
   (gr_text 2018 (at 174.752 92.964 90) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
   )

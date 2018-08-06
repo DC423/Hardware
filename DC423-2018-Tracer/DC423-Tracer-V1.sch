@@ -867,4 +867,8 @@ F 3 "" V 1500 6410 50  0001 C CNN
 	1    1500 6350
 	1    0    0    -1  
 $EndComp
+Text Notes 7400 7500 0    60   ~ 0
+DC423 2018 Electronic Badge
+Text Notes 8150 7650 0    60   ~ 0
+2018-08
 $EndSCHEMATC
