@@ -16,3 +16,6 @@ This was also the first time I did any SMD soldering work. I had a hot air rewor
 
 ## Programming
 The code for this was initially made on [Tinkercad](https://www.tinkercad.com/things/gh2c09ekxLf-terrific-sango) then pulled down and programmed into the ATTiny841 after it was put on the board. As a side note, you have to flash a bootloader on there first. Who knew?
+
+## What does it look like?
+![alt text](https://github.com/DC423/Hardware/blob/master/DC423-2018-Tracer/DC423-Tracer-V1.png "KiCAD rendering of the badge")
